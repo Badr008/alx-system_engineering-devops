@@ -1,2 +1,2 @@
 #!/bin/bash
-WORKDIR $HOME
+WORKDIR /root
